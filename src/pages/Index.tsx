@@ -143,7 +143,7 @@ const Index = () => {
 
       <div className="absolute top-1/3 left-1/2 transform -translate-x-1/2 -translate-y-1/2 text-center z-10 px-4">
         <h1 className="text-4xl md:text-6xl font-bold mb-8 max-w-4xl mx-auto">
-          Бесшовная оркестрация многоуровневых систем
+          Умная оркестрация
         </h1>
         <h2 className="text-lg md:text-xl mb-10 text-gray-300">
           Управляйте распределенными сервисами через единый мощный интерфейс
