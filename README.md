@@ -1,19 +1,10 @@
-# NexusFlow — 3D Лендинг
+# NexusFlow
 
-![Preview](https://cdn.poehali.dev/templates/3d-landing-ru/preview.jpg)
+![Preview](https://cdn.poehali.dev/templates/3d-landing-ru/cover.jpg)
 
-Современный лендинг с 3D-элементами и градиентным фоном. Идеален для технологических продуктов и SaaS-решений.
+Современный лендинг с 3D-элементами и динамичными градиентами на тёмном фоне. Футуристичный дизайн с глубиной и объёмом, плавные переходы цветов. Отлично подходит для технологических стартапов, SaaS-продуктов и инновационных решений.
 
-## Quick Start
-
-```bash
-npm install
-npm run dev
 ```
-
-## Tech Stack
-
-- React 18 + Vite
-- Tailwind CSS
-- shadcn/ui
-- Framer Motion
+"category": "saas"
+"tags": ["dark", "gradient", "modern", "3d"]
+```
